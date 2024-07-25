@@ -1,5 +1,5 @@
-# data analytics
-basic fundamentals for data analytics
+# Data analytics
+# Basic fundamentals for data analytics
 
 
 
